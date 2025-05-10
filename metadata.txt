@@ -1,0 +1,7 @@
+  <meta name="theme-color" content="#000000">
+  <meta property="og:title" content="PowerBikes NL">
+  <meta property="og:description" content="PowerBikes NL description">
+  <meta property="og:image" content="https://powerbikes.shop/MtbFullOutlineBitmap.png">
+  <meta property="og:url" content="https://powerbikes.shop">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
